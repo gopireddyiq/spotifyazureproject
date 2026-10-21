@@ -1,0 +1,15 @@
+{
+	"name": "adfoctpractice",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b66e76a4-9daa-4047-8995-0938207a4fcb",
+		"tenantId": "1c08202b-0da0-4405-9084-aa71dfaa65c2"
+	}
+}
