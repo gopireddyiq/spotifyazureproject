@@ -1,0 +1,15 @@
+{
+	"name": "gopispotify123adf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "adfcb275-f76f-48a8-b39a-3ba2e5b4d162",
+		"tenantId": "26df858f-5a82-4e5f-b263-6d70efd65c43"
+	}
+}
